@@ -18,15 +18,15 @@
   "prix":"3.50"
   },
   
- 
   {
   "title" :"Chocolat LAIT",
   "origine":"Equateur",
   "pourcentage":"53",
   "composition":"53% minimum de cacao dans le chocolat : pâte de cacao d’Équateur 33%, sucre de canne, beurre de cacao, lait entier en poudre et extrait de vanille.",
-  "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/newchocolatlait53equateurgrandcruethiquableequitablebio1.png?itok=SvnHYhO6"
-  "prix" : "4.00"
+  "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/newchocolatlait53equateurgrandcruethiquableequitablebio1.png?itok=SvnHYhO6",
+  "prix":"4.00"
   },
+   
   {
   "title" :"Chocolat NOIR",
   "origine":"Pérou",
@@ -35,6 +35,7 @@
   "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/chocolat-noir-70-perou-grand-cru-ethiquable_equitable_bio_1.png?itok=OkOl5EyL",
   "prix":"5.00"
   },
+   
     {
   "title" :"Chocolat NOIR",
   "origine":"Haïti",
