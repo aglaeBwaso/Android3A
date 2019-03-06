@@ -1,77 +1,100 @@
 [
 
-{
+   {
+  "title" :"Chocolat LAIT",
+  "origine":"Pérou",
+  "pourcentage":"47",
+  "composition":"Sucre de canne, pâte de cacao du Pérou 24%, lait entier en poudre, beurre de cacao et extrait de vanille.",
+  "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/chocolatlait47perougrandcruethiquableequitablebio.gif?itok=C2Vgunbg",
+  "prix":"3.00"
+  },
+  
+   {
+  "title" :"Chocolat LAIT",
+  "origine":"Madagascar",
+  "pourcentage":"50",
+  "composition":"50% minimum de cacao dans le chocolat : pâte de cacao de Madagascar 27%, sucre de canne, beurre de cacao, lait entier en poudre et extrait de vanille.",
+  "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/newchocolatlait50madagascargrandcruethiquableequitablebio.gif?itok=hmyje7P0",
+  "prix":"3.50"
+  },
+  
+ 
+  {
+  "title" :"Chocolat LAIT",
+  "origine":"Equateur",
+  "pourcentage":"53",
+  "composition":"53% minimum de cacao dans le chocolat : pâte de cacao d’Équateur 33%, sucre de canne, beurre de cacao, lait entier en poudre et extrait de vanille.",
+  "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/newchocolatlait53equateurgrandcruethiquableequitablebio1.png?itok=SvnHYhO6"
+  "prix":"4.00"
+  },
+  {
   "title" :"Chocolat NOIR",
   "origine":"Pérou",
   "pourcentage":"70",
-  "composition":"70% minimum de cacao : pâte de cacao du Pérou 65%*°, sucre de canne*°, beurre de cacao*°. 
-*issus de l'agriculture biologique (100%)
-°issus du commerce équitable (100% du poids total avec 93% SPP). Le Symbole des Producteurs Paysans (SPP) garantit un commerce équitable exclusivement centré sur la petite agriculture paysanne. Il appartient aux producteurs du commerce équitable.",
-  "imageURL":"https://www.google.com/imgres?imgurl=http%3A%2F%2Fjemedeveloppe.com%2Fwp-content%2Fuploads%2F2017%2F12%2Fchocolat-noir.jpg&imgrefurl=http%3A%2F%2Fjemedeveloppe.com%2F18-aliments-bons-pour-notre-cerveau%2Fchocolat-noir%2F&docid=thRr_GgT_ulKEM&tbnid=BJtyfUow6M3VGM%3A&vet=12ahUKEwj49ZDGlu3gAhXE2OAKHd3WBlY4ZBAzKBIwEnoECAEQEw..i&w=1936&h=1296&bih=706&biw=1536&q=chocolat%20noir%20&ved=2ahUKEwj49ZDGlu3gAhXE2OAKHd3WBlY4ZBAzKBIwEnoECAEQEw&iact=mrc&uact=8",
-  "prix":"4.00"
+  "composition":"70% minimum de cacao : pâte de cacao du Pérou 65%, sucre de canne et beurre de cacao.",
+  "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/chocolat-noir-70-perou-grand-cru-ethiquable_equitable_bio_1.png?itok=OkOl5EyL",
+  "prix":"5.00"
+  },
+    {
+  "title" :"Chocolat NOIR",
+  "origine":"Haïti",
+  "pourcentage":"72",
+  "composition":"72% minimum de cacao : pâte de cacao, sucre de canne, beurre de cacao. ",
+  "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/chocolat-noir-72-haiti-grand-cru-ethiquable_equitable_bio.png?itok=ZQmBCuqq",
+  "prix":"6.00"
+  },
+    {
+  "title" :"Chocolat NOIR",
+  "origine":"Côte d'Ivoire",
+  "pourcentage":"74",
+  "composition":"74% minimum de cacao : pâte de cacao, sucre de canne, beurre de cacao.",
+  "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/chocolatnoir74coteivoiregrandcruethiquableequitablebio.png?itok=bbF7QqEY",
+  "prix":"7.00"
+  },
+  
+    {
+  "title" :"Chocolat NOIR",
+  "origine":"Nicaragua",
+  "pourcentage":"75",
+  "composition":"75% minimum de cacao : pâte de cacao 66%, sucre de canne, beurre de cacao.",
+  "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/chocolat-noir-75-nicaragua-grand-cru-ethiquable_equitable_bio_2.png?itok=M0glQy2c",
+  "prix":"9.00"
+  },
+  
+    {
+  "title" :"Chocolat NOIR",
+  "origine":"Equateur",
+  "pourcentage":"80",
+  "composition":"80% minimum de cacao : pâte de cacao 70%, sucre de canne, beurre de cacao.",
+  "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/chocolatnoir80equateurgrandcruethiquableequitablebio1_1.png?itok=qBpU6cB0",
+  "prix":"10.00"
   },
   
   {
-  "title" :"",
-  "origine":"",
-  "pourcentage":"",
-  "composition":"",
-  "imageURL":"",
-  "prix":""
+  "title" :"Chocolat NOIR",
+  "origine":"Madagascar",
+  "pourcentage":"85",
+  "composition":"85% minimum de cacao : pâte de cacao 75%, sucre de canne, beurre de cacao.",
+  "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/chocolatnoir85madagascargrandcrusambiranolazannyequitablebioethiquable_1.png?itok=f8jiUFbG",
+  "prix":"10.00"
+  },
+ 
+  {
+  "title" :"Chocolat NOIR",
+  "origine":"Pérou",
+  "pourcentage":"88",
+  "composition":"88% minimum de cacao : pâte de cacao du Pérou 78%, sucre de canne, beurre de cacao.",
+  "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/chocolat-noir-88-equateur-grand-cru-ethiquable_equitable_bio_0.png?itok=a5_zFZQC",
+  "prix":"10.00"
   },
   
   {
-  "title" :"",
-  "origine":"",
-  "pourcentage":"",
-  "composition":"",
-  "imageURL":"",
-  "prix":""
-  },
-  
-  {
-  "title" :"",
-  "origine":"",
-  "pourcentage":"",
-  "composition":"",
-  "imageURL":"",
-  "prix":""
-  },
-  
-  {
-  "title" :"",
-  "origine":"",
-  "pourcentage":"",
-  "composition":"",
-  "imageURL":"",
-  "prix":""
-  },
-  
-  {
-  "title" :"",
-  "origine":"",
-  "pourcentage":"",
-  "composition":"",
-  "imageURL":"",
-  "prix":""
-  },
-  
-  {
-  "title" :"",
-  "origine":"",
-  "pourcentage":"",
-  "composition":"",
-  "imageURL":"",
-  "prix":""
-  },
-  
-  {
-  "title" :"",
-  "origine":"",
-  "pourcentage":"",
-  "composition":"",
-  "imageURL":"",
-  "prix":""
+  "title" :"Chocolat NOIR",
+  "origine":"Equateur",
+  "pourcentage":"98",
+  "composition":"98% minimum de cacao : pâte de cacao d'Equateur et sucre de canne.",
+  "imageURL":"http://www.ethiquable.coop/sites/www.ethiquable.coop/files/styles/fiche_produit/public/chocolat-noir-98-equateur-grand-cru-ethiquable_equitable_bio_1.png?itok=8WTrtora",
+  "prix":"10.00"
   } 
   
   ]
